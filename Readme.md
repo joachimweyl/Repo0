@@ -6,7 +6,7 @@
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| test      | test2       | Here's this   |
+| test      | test2       | test3   |
 | Paragraph   | Text        | And more      |
 
 ~Strikethrough~
