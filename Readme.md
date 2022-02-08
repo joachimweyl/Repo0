@@ -11,7 +11,7 @@
 
 ~The world is flat.~ We now know that the world is round.
 
-Subscript H<sub>2</sub>O Superscript X^2^
+Subscript H<sub>2</sub>O Superscript X<sup>2</sup>
 
 > Text that is a quote
 
