@@ -9,7 +9,7 @@
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-~The world is flat.~ We now know that the world is round.
+~Strikethrough~
 
 Subscript H<sub>2</sub>O Superscript X<sup>2</sup>
 
@@ -27,4 +27,6 @@ Taks List
 - [ ] Contact the media
 
 **bold**
--italic-
+*italic*
+***bold and italic***
+![This is an image](https://iconarchive.com/download/i107331/google/noto-emoji-animals-nature/22221-cat.ico)
