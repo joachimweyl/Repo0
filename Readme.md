@@ -1,8 +1,8 @@
-# Largest Heading, heading allows for links {#Heading1}
-## Large mid Heading, heading allows for links {#Heading2}
-### mid Heading, heading allows for links {#Heading3}
-#### small mid Heading, heading allows for links {#Heading4}
-##### Smallest Heading, heading allows for links {#Heading5}
+# Largest Heading
+## Large mid Heading
+### mid Heading
+#### small mid Heading
+##### Smallest Heading
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
@@ -13,7 +13,7 @@ I need to highlight these ==very important words==.
 
 ~~The world is flat.~~ We now know that the world is round.
 
-Subscript H~2~O Superscript X^2^
+Subscript H<sub>2<sub>O Superscript X^2^
 
 Taks List
 - [x] Write the press release
