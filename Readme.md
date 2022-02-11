@@ -22,7 +22,7 @@ properly follows markdown rules about line length.
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | test      | test2       | test3   |
-| Paragraph   | Text        | And more      |
+| test4   | Text        | And more      |
 
 ~Strikethrough~
 
