@@ -7,7 +7,7 @@
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | test      | test2       | test3   |
-| Paragraph   | Text        | And more      |
+| test4   | Text        | And more      |
 
 ~Strikethrough~
 
