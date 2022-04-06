@@ -15,3 +15,7 @@
 ## link to section
 
 [Link to Image id tag section](#image-id-tag)
+
+## link to other page
+
+[Link to index](index.md "if converted to html will need to change this to .html")
