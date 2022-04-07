@@ -1,7 +1,11 @@
 # Largest Heading
+
 ## Large mid Heading
+
 ### mid Heading
+
 #### small mid Heading
+
 ##### Smallest Heading
 
 Make sure that your lines are never longer than 80 characters so that it
