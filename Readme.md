@@ -1,7 +1,11 @@
 # Largest Heading
+
 ## Large mid Heading
+
 ### mid Heading
+
 #### small mid Heading
+
 ##### Smallest Heading
 
 Make sure that your lines are never longer than 80 characters so that it
@@ -26,14 +30,20 @@ properly follows markdown rules about line length.
 
 ~Strikethrough~
 
-Subscript H<sub>2</sub>O Superscript X<sup>2</sup>
+Subscript H<sub>2</sub>O Superscript X<sup>2</sup> Fair Warning
+many markdown lint scanners will consider this html and not markdown.
 
 > Text that is a quote
 
-`quoting code`
+`line of code`
 
 ```py
-    distinct block of code
+distinct block of code
+that spans multiple lines
+and can beformated based on a specific language
+fruits = ["apple", "bannana", "cherry"]
+for x in fruits:
+    print(x)
 ```
 
 This site was built using [GitHub Pages](https://pages.github.com/)
