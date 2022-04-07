@@ -46,7 +46,9 @@ for x in fruits:
     print(x)
 ```
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+This site was built using [GitHub Pages][github]
+
+[github]: https://pages.github.com/
 
 Taks List
 
@@ -62,6 +64,6 @@ Taks List
 
 ![This is an image][cat1]
 
-[cat1]=(/images/cat.ico)
+[cat1]:/images/cat.ico
 
 always make sure that you have a carriage return at the end of your page.
